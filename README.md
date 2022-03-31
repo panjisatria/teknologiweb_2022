@@ -34,8 +34,7 @@
         </style>
         <Center>
           <h2>Nanti Kita Cerita<br>
-            Tentang Hari Ini<br>
-          ______________ </h2><br>
+            Tentang Hari Ini<br></h2><br>
           <p>Cover: Photo by Sagui Andrea from Pexels</p>
           </Center>
         </body>
