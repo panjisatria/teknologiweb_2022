@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -65,7 +64,6 @@ untuk mengenal saya lebih dekat anda bisa kunjungi icon instagram saya diatas.<b
         </li>
           <img src="4.png" width="28px">
           <a href="https://instagram.com/pnjstr.id?utm_medium=copy_link" class="link-primary">pnjstr.id</a>
-        </li>
       </ul>
     </nav>
   </Center>
