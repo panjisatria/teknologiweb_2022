@@ -11,37 +11,6 @@
     padding-top: 10px;
     weight: 150px;
 }  
-}
-/* nav style desktop */
-@media (min-width: 992px) { 
-  .navbar-brand, .nav-link .Jumbotron{
-      color: rgb(255, 255, 255) !important;
-      text-transform: uppercase;
-  }
-@media (min-width: 576px){
-  .navbar-brand, .nav-link, .layarpenuh{
-      
-  }
-  
-}
-@media (min-width: 768px){
-  .navbar-brand, .nav-link {
-
-  }
-
-}
-}
-/* style bottom */
-.nav-link:hover::after,
-#Jumbotron {
-  content: '';
-  display: block;
-  border-bottom: 3px solid #1a86eb;
-  width: 50%;
-  margin: auto;
-  padding-bottom: 5px;
-  margin-bottom: -8px;
-}
 .layarpenuh{
   margin-bottom: 300px;
 }
