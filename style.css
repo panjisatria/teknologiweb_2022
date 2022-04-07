@@ -8,6 +8,7 @@
 .Jumbotron {
     left: 876px;
     position: absolute;
+    padding-top: 10px;
 }  
 }
 /* nav style desktop */
