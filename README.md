@@ -43,13 +43,13 @@
         <link rel="stylesheet" href="style.css">
         <!-- end -->
         <div class="Jumbotron">
-          <img src="WhatsApp Image 2022-03-28 at 21.02.23.jpeg" width="190px">
+          <img src="WhatsApp Image 2022-03-28 at 21.02.23.jpeg" width="200px">
         </div>
       </div>
     </div>   
   </div>
   <Center>
-    <br><br><br>
+    <br><br>
     <h3>Tentang Saya</h3>
     Halo, saya dari Jombang, Jawa Timur, Indonesia.<br>
 Saya memiliki tiga saudara kandung, dan saya memiliki hobi membaca.<br>
