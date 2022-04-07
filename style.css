@@ -6,9 +6,10 @@
   }
 
 .Jumbotron {
-    left: 876px;
+    left: 875px;
     position: absolute;
     padding-top: 10px;
+    weight: 150px;
 }  
 }
 /* nav style desktop */
