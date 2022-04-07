@@ -43,7 +43,7 @@
         <link rel="stylesheet" href="style.css">
         <!-- end -->
         <div class="Jumbotron">
-          <img src="WhatsApp Image 2022-03-28 at 21.02.23.jpeg" width="230px">
+          <img src="WhatsApp Image 2022-03-28 at 21.02.23.jpeg" width="260px">
         </div>
       </div>
     </div>   
