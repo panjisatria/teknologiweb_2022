@@ -1,6 +1,10 @@
 .cover {
     background-size: cover;
-    height: 640px;
+    height: 101%;
+    padding-bottom: 0%;
+    padding-left: 0%;
+    padding-top: 0%;
+    width: 100%;
 }
 .layarpenuh{
   margin-bottom: 300px;
