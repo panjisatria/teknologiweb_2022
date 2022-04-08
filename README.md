@@ -11,27 +11,6 @@
   }
 </style>
 <body>
-  <title>Bootstrap Example</title>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/css/bootstrap.min.css">
-  <script src="https://cdn.jsdelivr.net/npm/jquery@3.6.0/dist/jquery.slim.min.js"></script>
-  <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"></script>
-  <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.bundle.min.js"></script>
-</head>
-<!-- nvabr -->
-<nav class="navbar navbar-expand-sm bg-dark">
-  <center>
-  <ul class="navbar-nav">
-    <li class="nav-item">
-      <a class="nav-link" href="#">Home</a>
-    </li>
-    <li class="nav-item">
-      <a class="nav-link" href="#">About Me/a>
-    </li>
-  </ul>
-  </center>
-</nav>
 <!--Header-->
 <div class="cover" style="background-image: url(pexels-sagui-andrea-618833.jpg);">
     <div class="masking"></div>
@@ -53,8 +32,19 @@
           }
         </style>
         <Center>
-          <h2>Nanti Kita Cerita<br>
-            Tentang Hari Ini<br></h2><br>
+          <h3>Tentang Saya</h3>
+    Halo, saya dari Jombang, Jawa Timur, Indonesia.<br>
+Saya memiliki tiga saudara kandung, dan saya memiliki hobi membaca.<br>
+untuk mengenal saya lebih dekat anda bisa kunjungi icon instagram saya diatas.<br>
+    <p>silahkan lihat profil instagram saya:</p>
+    <nav aria-label="Page navigation example">
+      <ul class="pagination justify-content-center">
+        <li class="page-item disabled">
+        </li>
+          <img src="4.png" width="27px">
+          <a href="https://instagram.com/pnjstr.id?utm_medium=copy_link" class="link-primary">pnjstr.id</a>
+      </ul>
+    </nav>
           <p>Cover: Photo by Sagui Andrea from Pexels</p>
           </Center>
         </body>
@@ -70,22 +60,6 @@
       </div>
     </div>   
   </div>
-  <Center>
-    <br><br>
-    <h3>Tentang Saya</h3>
-    Halo, saya dari Jombang, Jawa Timur, Indonesia.<br>
-Saya memiliki tiga saudara kandung, dan saya memiliki hobi membaca.<br>
-untuk mengenal saya lebih dekat anda bisa kunjungi icon instagram saya diatas.<br>
-    <p>silahkan lihat profil instagram saya:</p>
-    <nav aria-label="Page navigation example">
-      <ul class="pagination justify-content-center">
-        <li class="page-item disabled">
-        </li>
-          <img src="4.png" width="27px">
-          <a href="https://instagram.com/pnjstr.id?utm_medium=copy_link" class="link-primary">pnjstr.id</a>
-      </ul>
-    </nav>
-  </Center>
   <!--end header-->
 </body>
 </html>
