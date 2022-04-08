@@ -1,13 +1,7 @@
-/*style.css*/
 .cover {
     background-size: cover;
-  }
-
-.Jumbotron {
-    left: 876px;
-    position: absolute;
-}  
+    height: 640px;
+}
 .layarpenuh{
   margin-bottom: 300px;
 }
-/* akhir */
