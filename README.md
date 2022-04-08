@@ -56,14 +56,14 @@
     <br><br><br>
     <h3>Tentang Saya</h3>
     Halo, saya  berasal dari Jombang, Jawa Timur, Indonesia.<br>
-Saya berkuliah di Universitas Ahmad Dahlan, Prodi Sistem Informasi<br>
-untuk mengenal saya lebih dekat anda bisa kunjungi icon instagram saya diatas.<br>
+Saya berkuliah di Universitas Ahmad Dahlan,Prodi
+     Sistem Informasi untuk mengenal saya lebih dekat <br>
     <p>silahkan lihat profil instagram saya:</p>
     <nav aria-label="Page navigation example">
       <ul class="pagination justify-content-center">
         <li class="page-item disabled">
         </li>
-          <img src="4.png" width="28px">
+          <img src="4.png" width="27px">
           <a href="https://instagram.com/pnjstr.id?utm_medium=copy_link" class="link-primary">pnjstr.id</a>
         </li>
       </ul>
