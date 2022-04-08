@@ -20,7 +20,8 @@
     <div class="container h-100">
       <div class="row h-100 align-items-center">
         <div class="col-6 text-white">
-        <br><h1>Panji Satria Taqwa Putra Purnama</h1><br>
+          <center>
+            <br><h1>Panji Satria Taqwa Putra Purnama</h1><br></center>
         <body>
           <!-- link -->
           <link rel="preconnect" href="https://fonts.googleapis.com">
