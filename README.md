@@ -7,6 +7,16 @@
 </head>
 <body>
 <!--Header-->
+  <style>
+    .cover {
+    background-size: cover;
+    height: 101%;
+    padding-bottom: 0%;
+    padding-left: 0%;
+    padding-top: 0%;
+    width: 100%;
+}
+  </style>
 <div class="cover" style="background-image: url(pexels-sagui-andrea-618833.jpg);">
     <div class="masking"></div>
     <small class="credit"><a href=""></a></small>
