@@ -5,11 +5,6 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Panji Satria Taqwa Putra Purnama</title>
 </head>
-<style>
-  .body {
-    overflow-x: hidden;
-  }
-</style>
 <body>
 <!--Header-->
 <div class="cover" style="background-image: url(pexels-sagui-andrea-618833.jpg);">
