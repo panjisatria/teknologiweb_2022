@@ -34,8 +34,6 @@ untuk mengenal saya lebih dekat anda bisa kunjungi icon instagram saya diatas.<b
     <p>silahkan lihat profil instagram saya:</p>
     <nav aria-label="Page navigation example">
       <ul class="pagination justify-content-center">
-        <li class="page-item disabled">
-        </li>
           <img src="4.png" width="27px">
           <a href="https://instagram.com/pnjstr.id?utm_medium=copy_link" class="link-primary">pnjstr.id</a>
       </ul>
