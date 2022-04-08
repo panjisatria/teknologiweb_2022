@@ -36,7 +36,7 @@
         <Center>
           <h2>Nanti Kita Cerita<br>
             Tentang Hari Ini<br>
-          ______________ </h2><br>
+           </h2><br>
           <p>Cover: Photo by Sagui Andrea from Pexels</p>
           </Center>
         </body>
@@ -46,7 +46,7 @@
         <!-- CSS -->
         <center>
         <div class="Jumbotron">
-          <img src="WhatsApp Image 2022-03-28 at 21.02.23.jpeg" width="280px">
+          <img src="WhatsApp Image 2022-03-28 at 21.02.23.jpeg" width="279px">
         </div>
         </center>
       </div>
@@ -65,7 +65,6 @@ Saya berkuliah di Universitas Ahmad Dahlan,Prodi
         </li>
           <img src="4.png" width="27px">
           <a href="https://instagram.com/pnjstr.id?utm_medium=copy_link" class="link-primary">pnjstr.id</a>
-        </li>
       </ul>
     </nav>
   </Center>
