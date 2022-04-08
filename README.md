@@ -42,9 +42,9 @@
           </Center>
         </body>
         </div>
-        <!-- CSS -->\
-        <link rel="stylesheet" href="style.css">
         <!-- CSS -->
+        <link rel="stylesheet" href="style.css">
+        <!-- end -->
         <center>
         <div class="Jumbotron">
           <img src="WhatsApp Image 2022-03-28 at 21.02.23.jpeg" width="279px">
