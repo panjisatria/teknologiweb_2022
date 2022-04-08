@@ -1,8 +1,6 @@
 /*style.css*/
 .cover {
-    position: relative;
     background-size: cover;
-    overflow-x: hidden;
   }
 
 .Jumbotron {
@@ -12,8 +10,4 @@
 .layarpenuh{
   margin-bottom: 300px;
 }
-.body {
-  overflow-x: hidden;
-}
-]
 /* akhir */
