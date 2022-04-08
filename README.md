@@ -46,6 +46,7 @@ untuk mengenal saya lebih dekat anda bisa kunjungi icon instagram saya diatas.<b
         <!-- end -->
         <style>
           .poto {
+          position: left;
           height: 40px;
           }
         </style>
