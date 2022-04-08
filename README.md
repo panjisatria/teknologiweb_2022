@@ -44,7 +44,12 @@ untuk mengenal saya lebih dekat anda bisa kunjungi icon instagram saya diatas.<b
         <!-- CSS -->\
         <link rel="stylesheet" href="style.css">
         <!-- end -->
-        <div class="Jumbotron">
+        <style>
+          .poto {
+          height: 40px;
+          }
+        </style>
+        <div class="poto">
           <img src="WhatsApp Image 2022-03-28 at 21.02.23.jpeg" width="210px">
         </div>
       </div>
