@@ -72,7 +72,6 @@ Saya berkuliah di Universitas Ahmad Dahlan,Prodi
   <!--end header-->
   <!-- JQuery -->
  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
- <script src="script.js"></script>
 <!-- end -->
   <!--Vue Js-->
    <script src="https://unpkg.com/vue@3"></script>
