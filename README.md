@@ -37,6 +37,7 @@
       }
 </style>
         <body>
+          <div id="loading">
 <!--Header-->
 <div class="cover" style="background-image: url(pexels-sagui-andrea-618833.jpg);">
     <div class="masking"></div>
@@ -109,6 +110,7 @@
     loading.style.display="none";
   })
 </script>
-<!--end-->
+          </div>
+            <!--end-->
 </body>
 </html>
