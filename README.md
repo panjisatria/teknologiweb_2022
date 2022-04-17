@@ -12,32 +12,7 @@
     overflow-x: hidden;
   }
 </style>
-<style>
-      #loading{
-        width: 50px;
-        height: 50px;
-        border: solid 5px rgb(184, 87, 87);
-        border-top-color: blue;
-        border-radius: 100%;
-        background-color: rgb(62, 14, 110);
-
-        position: fixed;
-        left: 0;
-        top: 0;
-        right: 0;
-        bottom: 0;
-        margin: auto;
-
-        animation: rotate 90ms linear infinite;
-      }
-
-      @keyframes rotate{
-        from{transform:rotate(0deg)}
-        to{transform: rotate(950deg)}
-      }
-</style>
         <body>
-          <div id="loading"></div>
 <!--Header-->
 <div class="cover" style="background-image: url(pexels-sagui-andrea-618833.jpg);">
     <div class="masking"></div>
@@ -99,17 +74,8 @@
  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 <!-- end -->
   <!--Vue Js-->
-   <script src="https://unpkg.com/vue@3"></script>
+ <script src="https://unpkg.com/vue@3"></script>
  <script src="main.js"></script> <!--kode ini harus berada dibawah library vue-->
-<!--end-->
-<!--animate-->
-  <script>
-  var loading = document.getElementById('loading');
-
-  window.addEventListener('load', function(){
-    loading.style.display="none";
-  })
-</script>
 <!--end-->
 </body>
 </html>
