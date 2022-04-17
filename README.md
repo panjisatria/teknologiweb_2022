@@ -25,8 +25,8 @@
         <body>
           <!-- link -->
           <link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Smooch&display=swap" rel="stylesheet">
+          <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+          <link href="https://fonts.googleapis.com/css2?family=Smooch&display=swap" rel="stylesheet">
         <style type="text/css">
           h2{
             font-family: 'Smooch', cursive;
@@ -42,9 +42,9 @@
           </Center>
         </body>
         </div>
-        <!-- CSS -->
+    <!-- CSS -->
         <link rel="stylesheet" href="style.css">
-        <!-- end -->
+    <!-- end -->
         <center>
         <div class="Jumbotron">
           <img src="WhatsApp Image 2022-03-28 at 21.02.23.jpeg" width="279px">
@@ -69,13 +69,22 @@ Saya berkuliah di Universitas Ahmad Dahlan,Prodi
       </ul>
     </nav>
   </Center>
-  <!--end header-->
-  <!-- JQuery -->
+<!--end header-->
+<!-- JQuery -->
  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 <!-- end -->
   <!--Vue Js-->
    <script src="https://unpkg.com/vue@3"></script>
  <script src="main.js"></script> <!--kode ini harus berada dibawah library vue-->
+<!--end-->
+<!--animate-->
+  <script>
+  var loading = document.getElementById('loading');
+
+  window.addEventListener('load', function(){
+    loading.style.display="none";
+  })
+</script>
 <!--end-->
 </body>
 </html>
