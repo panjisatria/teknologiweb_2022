@@ -70,5 +70,9 @@ Saya berkuliah di Universitas Ahmad Dahlan,Prodi
     </nav>
   </Center>
   <!--end header-->
+  <!--Vue Js-->
+   <script src="https://unpkg.com/vue@3"></script>
+ <script src="main.js"></script> <!--kode ini harus berada dibawah library vue-->
+<!--end-->
 </body>
 </html>
