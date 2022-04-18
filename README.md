@@ -68,7 +68,7 @@
           <a href="https://instagram.com/pnjstr.id?utm_medium=copy_link" class="link-primary">pnjstr.id</a>
       </ul>
     </nav>
-    <p ><a href="#">Show Article</a></p>
+    <p ><a href="detail.html">Show Article</a></p>
   </Center>
 <!--end header-->
 <!-- JQuery -->
