@@ -24,7 +24,7 @@ Vue.createApp({
      getArticlesData() {
       axios
         .get(
-          'https://raw.githubusercontent.com/panjisatria/teknologiweb_2022/main/contents/artikel.html'
+          'https://raw.githubusercontent.com/panjisatria/teknologiweb_2022/main/contents/articles.html'
       )
         .then((res) => {
           console.log(res.data);
