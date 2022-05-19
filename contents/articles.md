@@ -1,7 +1,7 @@
 Panji Satria Taqwa Putra Purnama
 Update,18 April 2022
 
-[WhatsApp Image 2022-03-28 at 21 02 23](https://user-images.githubusercontent.com/96733005/169406993-6ed67c5d-c151-4842-957a-e3a8d1eef3c0.jpeg)
+![WhatsApp Image 2022-03-28 at 21 02 23](https://user-images.githubusercontent.com/96733005/169406993-6ed67c5d-c151-4842-957a-e3a8d1eef3c0.jpeg)
 
 
 Halo, saya berasal dari Jombang, Jawa Timur, Indonesia. Saya berkuliah di Universitas Ahmad Dahlan,Prodi Sistem Informasi. Keahlihan saya mendesain Menggunakan Adobe Illustrator. Adobe Illustrator adalah program editor grafis vektor terkemuka, dikembangkan dan dipasarkan oleh Adobe Systems. Illustrator CC merupakan versi terkini program ini, generasi kedua puluh untuk produk Illustrator.
