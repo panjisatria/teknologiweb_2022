@@ -82,7 +82,7 @@
 <!--  ajax  -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/showdown/2.0.3/showdown.min.js"></script>
 <!-- display   -->
-<script src="./display_md.js"></script>
+<script src="./get.json.js"></script>
 
 <!--end-->
 <!--end-->
