@@ -7,7 +7,7 @@ Vue.createApp({
     methods: {
        getHeaderData() {
       axios
-        .get('https://raw.githubusercontent.com/dewinura/tekweb2022/main/contents/header.json')
+        .get('https://raw.githubusercontent.com/panjisatria/teknologiweb_2022/main/contents/header.json')
         .then((res) => {
           console.log(res.data);
           this.header = res.data;
