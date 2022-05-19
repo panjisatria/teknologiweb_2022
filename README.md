@@ -77,6 +77,14 @@
   <!--Vue Js-->
  <script src="https://unpkg.com/vue@3"></script>
  <script src="main.js"></script> <!--kode ini harus berada dibawah library vue-->
+  <!--Aqios-->
+<script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+<!--  ajax  -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/showdown/2.0.3/showdown.min.js"></script>
+<!-- display   -->
+<script src="./display_md.js"></script>
+
+<!--end-->
 <!--end-->
 </body>
 </html>
