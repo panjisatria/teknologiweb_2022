@@ -1,10 +1,8 @@
 [
 
     {
-      "ID" : "articles",
+      "ID" : "1",
       "title" : "Show Article",
-      "description": "Halo, saya berasal dari Jombang, Jawa Timur, Indonesia. Saya berkuliah di Universitas Ahmad Dahlan,Prodi Sistem Informasi. 
-      Keahlihan saya mendesain Menggunakan Adobe Illustrator. Adobe Illustrator adalah program editor grafis vektor terkemuka, dikembangkan dan dipasarkan oleh Adobe Systems. Illustrator CC merupakan versi terkini program ini, generasi kedua puluh untuk produk Illustrator.",
       "content" : "articles.html"
     }
     ]
