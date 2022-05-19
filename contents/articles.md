@@ -19,19 +19,24 @@ Type Text
 Tool ini adalah sebuah bisa juga disebut typetext. Dengan tool ini, kitabisa mengetik apa pun yang kamu mau. Jenis, ukuran, dan jarak antar-font, gaya huruf, kemiringan huruf dan lainnya juga bisa diatur pada tools bernama typetext.
 Berikut Model Illustrasi yang saya buat pada Adobe Ilustrator
 1.Illustrasi Astronot "AI"
+![astrnt](https://user-images.githubusercontent.com/96733005/169407585-b0a8d562-5664-49f2-9940-4ee49f098cf1.jpg)
 
 
-astronot
 2.Illustrasi Hewan "AI"
+![burng onta 12](https://user-images.githubusercontent.com/96733005/169407605-782f82a3-5d4f-4d40-8395-7bad0dbbd8e2.png)
 
 
-astronot
+
+
 3.Illustrasi Character "AI"
+![Untitled-2](https://user-images.githubusercontent.com/96733005/169407429-bab4918d-6ba9-45c4-b8ed-92523526f3eb.png)
 
 
-astronot
+
+
+
 4.Illustrasi design retro
+![retuuro tv](https://user-images.githubusercontent.com/96733005/169407671-a2f7eab0-5834-41b5-b807-47a7b316967d.jpg)
 
-astronot
 
 ©Panji Satria Taqwa Putra Purnama
